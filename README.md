@@ -1,5 +1,5 @@
 # Anime-Games-Download-Library
-![Anime_Game_Company_Banner](https://github.com/Endercat-sia/Anime-Game-Download-Library/blob/main/.ignore/media/Anime_Game_Company_Banner.png?raw=true)
+![Anime_Game_Company_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/Anime_Game_Company_Banner.png?raw=true)
 [EN](README.md) | [简中](README_zh-CN.md)
 
 **Note**: 
@@ -10,7 +10,7 @@
 
 ----
 ## Genshin Impact / Yuanshen (GI)
-![GI_Banner](https://github.com/Endercat-sia/Anime-Game-Download-Library/blob/main/.ignore/media/GI_Banner.png?raw=true)
+![GI_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/GI_Banner.png?raw=true)
 ### Tips
 Since the 3.1.5 beta, mihoyo has added key and cookie verification to the download link.
 
@@ -31,7 +31,7 @@ Since the 3.1.5 beta, mihoyo has added key and cookie verification to the downlo
 -----
 
 ## Honkai: Star Rail (HSR)
-![HSR_Banner](https://github.com/Endercat-sia/Anime-Game-Download-Library/blob/main/.ignore/media/HSR_Banner.png?raw=true)
+![HSR_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/HSR_Banner.png?raw=true)
 ### What's inside
 * Links of the **_"autopatchaos"_** and **_"autopatchcn.hbsr"_** versions of the Honkai: Star Rail/Benghuai: Star Rail **Beta** files
 
@@ -46,7 +46,7 @@ Since the 3.1.5 beta, mihoyo has added key and cookie verification to the downlo
 -----
 
 ## Zenless Zone Zero (ZZZ)
-![ZZZ_Banner](https://github.com/Endercat-sia/Anime-Game-Download-Library/blob/main/.ignore/media/ZZZ_Banner.png?raw=true)
+![ZZZ_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/ZZZ_Banner.png?raw=true)
 ### What's inside
 * Mirror links of Zenless Zone Zero **Beta** files
 
@@ -61,7 +61,7 @@ Since the 3.1.5 beta, mihoyo has added key and cookie verification to the downlo
 -----
 
 ## Honkai Impact 3rd (BH3)
-![BH3_Banner](https://github.com/Endercat-sia/Anime-Game-Download-Library/blob/main/.ignore/media/BH3_Banner.png?raw=true)
+![BH3_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/BH3_Banner.png?raw=true)
 
 ### placeHolder1
 * For Future Plan
