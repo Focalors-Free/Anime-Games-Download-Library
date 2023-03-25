@@ -1,5 +1,5 @@
 # 动漫游戏-下载链接仓库
-![Anime_Game_Company_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/Anime_Game_Company_Banner.png?raw=true)
+![Anime_Game_Company_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/Anime_Game_Company_Banner.png?raw=true)
 [EN](README.md) | [简中](README_zh-CN.md)
 
 **注意**: 
@@ -10,7 +10,7 @@
 
 ----
 ## 原神/Genshin Impact (GI)
-![GI_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/GI_Banner.png?raw=true)
+![GI_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/GI_Banner.png?raw=true)
 ### 提示
 从3.1.5x beta开始mihoyo添加了key和cookie的下载验证
 
@@ -31,7 +31,7 @@
 -----
 
 ## 崩坏：星穹铁道 (HSR)
-![HSR_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/HSR_Banner.png?raw=true)
+![HSR_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/HSR_Banner.png?raw=true)
 ### 仓库里面有什么？ 
 * 仓库里面有星穹铁道 **_"autopatchaos"_** and **_"autopatchcn.hbsr"_** 的链接，包括了 **测试版-beta**
 
@@ -46,7 +46,7 @@
 -----
 
 ## 绝区零 (ZZZ)
-![ZZZ_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/ZZZ_Banner.png?raw=true)
+![ZZZ_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/ZZZ_Banner.png?raw=true)
 ### 仓库里面有什么？ 
 * 仓库里面有绝区零的镜像连接，包括了 **测试版-Beta**
 
@@ -61,7 +61,7 @@
 -----
 
 ## 崩坏三 (BH3)
-![BH3_Banner](https://github.com/Focalors-Free/Anime-Game-Download-Library/blob/main/.ignore/media/BH3_Banner.png?raw=true)
+![BH3_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/BH3_Banner.png?raw=true)
 
 ### 占位符1
 * 占位符
