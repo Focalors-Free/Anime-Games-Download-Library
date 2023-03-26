@@ -28,7 +28,7 @@ You need to decrypt response by key (yes, it's encrypted, before 3.2 use key 3, 
 
 If you dunno about query_cur_region, about keys and how to decrypt the response - ask in **#support** or **#development**.
 
-I haven't arrange these hotfixes yet so all hotfixes I can find are put here instead of in respective foleders.
+I haven't arrange these hotfixes yet so all hotfixes I can find are put here instead of in respective folders.
 
 Known list:
 
