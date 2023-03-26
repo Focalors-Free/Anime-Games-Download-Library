@@ -10,7 +10,7 @@
 ## About This File
 
 **Note**:
-This file is originally made by Source (https://raw.githubusercontent.com/BiosNod/Live-data-downloader/main/versions.release.js)
+This file is originally from https://raw.githubusercontent.com/BiosNod/Live-data-downloader/main/versions.release.js
 
 Original source: https://github.com/BiosNod/Live-data-loader.git
 
@@ -18,7 +18,7 @@ Discord invite: https://discord.gg/MfxYRNdD9x
 
 Bring back some data for your game and have fun.
 
-Please make pull request to the original repository if you have {client, version, suffix} from other versions at Original Source (https://github.com/BiosNod/Live-data-loader.git)
+Please make pull request to the original repository if you have {client, version, suffix} from other versions at **original source** (https://github.com/BiosNod/Live-data-loader.git)
 
 {Client type, version, suffix} you can retrieve from dispatch (when login) from:
 
