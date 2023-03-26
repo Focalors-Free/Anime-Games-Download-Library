@@ -55,7 +55,7 @@ Since the 3.1.5 beta, mihoyo has added key and cookie verification to the downlo
 * **CN-Beta** - Jue Qu Ling or 绝区零
 
 ### What's the difference between _"Zenless Zone Zero"_ and _"Jue Qu Ling"_?
-* **Honkai: Star Rail** - Overseas/Global Version
+* **Zenless Zone Zero** - Overseas/Global Version
 * **Jue Qu Ling** - Chinese Version
 
 -----
