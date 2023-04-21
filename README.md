@@ -17,7 +17,7 @@ Since the 3.1.5 beta, mihoyo has added key and cookie verification to the downlo
 (if you are a tester, do not share your key pair, it’s based on your IP address and other personal information, cognosphere or mihoyo can easily find and punish you.)
 
 ### What's inside
-* Links of the **_"autopatchhk"_** and **_"autopatchcn.yuanshen"_** versions of the Genshin/Yuanshen **Release**, **Beta**, **devkit**, **Hotfixes** and **Audio** files
+* Links of the **_"autopatchhk"_** and **_"autopatchcn.yuanshen"_** versions of the Genshin/Yuanshen **Release**, **Beta**, **Devkit**, **Hotfixes** and **Audio** files
 
 
 ### What is _"autopatchhk"_ and _"autopatchcn.yuanshen"_
@@ -55,7 +55,7 @@ Since the 3.1.5 beta, mihoyo has added key and cookie verification to the downlo
 * **CN-Beta** - Jue Qu Ling or 绝区零
 
 ### What's the difference between _"Zenless Zone Zero"_ and _"Jue Qu Ling"_?
-* **Honkai: Star Rail** - Overseas/Global Version
+* **Zenless Zone Zero** - Overseas/Global Version
 * **Jue Qu Ling** - Chinese Version
 
 -----
