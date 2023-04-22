@@ -17,8 +17,8 @@
 (如果你是一位测试人员, **请勿**分享你的下载链接的key, 因为这是通过你的ip地址和一些你的私人信息计算出来的, mihoyo可以很容易地查出你并且惩罚你)
 
 ### 仓库里面有什么？  
-* 仓库里面有原神 **_"autopatchhk"_** 和 **_"autopatchcn.yuanshen"_** 的链接，包括了 **发行版-Release**、 **测试版-beta**、**深测版-devkit**、**热更新/修复-Hotfixes**和**音频文件-Audio files**
-
+* 仓库里面有原神 **_"autopatchhk"_** 和 **_"autopatchcn.yuanshen"_** 的链接，包括了 **发行版-Release**、 **测试版-Beta(CB)**、**内部跑测/引擎黑盒测试版-Devkit(CE)**、**热更新/修复-Hotfixes**和**音频文件-Audio files**
+* 求各位大神泄露一下深测版啊啊啊啊啊啊!!! :sob: :sob: :sob:
 
 ### 什么是"autopatchhk" 和 "autopatchcn.yuanshen"
 * **autopatchhk** - Genshin Impact

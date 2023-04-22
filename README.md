@@ -17,8 +17,8 @@ Since the 3.1.5 beta, mihoyo has added key and cookie verification to the downlo
 (if you are a tester, do not share your key pair, it’s based on your IP address and other personal information, cognosphere or mihoyo can easily find and punish you.)
 
 ### What's inside
-* Links of the **_"autopatchhk"_** and **_"autopatchcn.yuanshen"_** versions of the Genshin/Yuanshen **Release**, **Beta**, **Devkit**, **Hotfixes** and **Audio** files
-
+* Links of the **_"autopatchhk"_** and **_"autopatchcn.yuanshen"_** versions of the Genshin/Yuanshen **Release**, **Beta(CB)**, **Devkit(CE)**, **Hotfixes** and **Audio** files
+* BEGGING SOMEONE LEAK SPECIAL CLOSED BETA (深测版) PLEASE!!! :sob: :sob: :sob:
 
 ### What is _"autopatchhk"_ and _"autopatchcn.yuanshen"_
 * **autopatchhk** - Genshin Impact
